@@ -1,0 +1,12 @@
+.blueText{
+  color: blue;
+}
+
+.Inputs{
+  display: flex;
+}
+
+.buttonHD:disabled {
+  background-color: lightgray; /* Color de fondo del botón deshabilitado */
+  cursor: not-allowed; /* Cambia el cursor cuando se pasa por encima */
+}
